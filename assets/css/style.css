@@ -1,0 +1,56 @@
+body{
+    background-image: url("../images/background.png");
+}
+.header
+{
+    border: 2px;
+   background-color: plum;
+    width: 100%;
+    border: solid black 2px;
+    text-align: center;
+    font-size: 12px;
+    font: bold;
+
+}
+.instructions{
+   margin: 10px;
+    background-color: aliceblue;
+    display:block;
+    align-content: center;
+    padding: 10px;
+}
+.numberToGet{
+    background: aliceblue;
+    display: block;
+    width: 180px;
+    height: 80px;
+    padding-left: 16px;
+    float:left;
+}
+.winsAndLoses{
+    background: aliceblue;
+    display: block;
+    width: 180px;
+    height: 80px;
+    padding-left: 16px;
+    float:left;
+    margin-left: 50px;
+}
+.images{
+    margin-top: 80px;
+    background: aliceblue;  
+    display: block;
+    width: 25% ;
+
+}
+.gemImages{
+    margin:10px;
+    height: 70px;
+}
+.totalScore{
+    background: aliceblue;
+    display: block;
+    margin-top: 10px;
+    width: 180px;
+    height:80px;
+}
